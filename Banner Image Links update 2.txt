@@ -1,0 +1,155 @@
+Sure, here are the URLs for the missing images based on the provided directory structure:
+
+### High Quality Images
+
+**Culturals:**
+- DJNIGHT:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Culturals/djnight.jpg
+- JAMMING:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Culturals/jamming.jpg
+- MOVIENIGHT:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Culturals/movienight.jpg
+
+**Games:**
+- BGMI:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/bgmi.jpg
+- FIFA:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/fifa.jpg
+- MINIMILIITA:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/minimiliita.jpg
+- PS2:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/ps2.jpg
+- SMASHKARTS:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/smashkarts.jpg
+- VALORANT:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/valorant.jpg
+- ZTYPE:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Games/ztype.jpg
+
+**Non-Tech:**
+- ADAPTTUNES:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Non-Tech/adapttunes.jpg
+- BEATBATTLE:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Non-Tech/beatbattle.jpg
+- MELODYWAR:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Non-Tech/melodywar.jpg
+- PITCHPERFECT:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Non-Tech/pitchperfect.jpg
+
+**Sports:**
+- BADMINTON:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Sports/badminton.jpg
+- CRICKET:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Sports/cricket.jpg
+
+**Tech:**
+- POSTERMAKING:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Tech/postermaking.jpg
+- TECHQUIZ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Tech/techquiz.jpg
+- UIDESIGN:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Tech/uidesign.jpg
+
+**TechTalk:**
+- TECHPAVILION:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/TechTalk/techpavilion.jpg
+
+**Workshop:**
+- ANDROIDAPP:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/androidapp.jpg
+- BLOCKCHAIN:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/blockchain.jpg
+- CYBERSECURITY:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/cybersecurity.jpg
+- DEVOPS:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/devops.jpg
+- IOT:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/iot.jpg
+- LLMAI:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/llmai.jpg
+- PERSONALFINANCE:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/personalfinance.jpg
+- PREMIEREPRO:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/premierepro.jpg
+- PREMIEREPROOLD:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/premiereproold.jpg
+- SELFHOSTING:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events/Workshop/selfhosting.jpg
+
+### Low Quality Images
+
+**Culturals:**
+- DJNIGHT-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Culturals/djnight.jpg
+- JAMMING-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Culturals/jamming.jpg
+- MOVIENIGHT-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Culturals/movienight.jpg
+
+**Games:**
+- BGMI-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/bgmi.jpg
+- FIFA-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/fifa.jpg
+- MINIMILIITA-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/minimiliita.jpg
+- PS2-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/ps2.jpg
+- SMASHKARTS-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/smashkarts.jpg
+- VALORANT-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/valorant.jpg
+- ZTYPE-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Games/ztype.jpg
+
+**Non-Tech:**
+- ADAPTTUNES-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Non-Tech/adapttunes.jpg
+- BEATBATTLE-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Non-Tech/beatbattle.jpg
+- MELODYWAR-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Non-Tech/melodywar.jpg
+- PITCHPERFECT-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Non-Tech/pitchperfect.jpg
+
+**Sports:**
+- BADMINTON-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Sports/badminton.jpg
+- CRICKET-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Sports/cricket.jpg
+
+**Tech:**
+- POSTERMAKING-LQ:
+
+  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Tech/postermaking.jpg
+- TECHQUIZ-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Tech/techquiz.jpg
+- UIDESIGN-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Tech/uidesign.jpg
+
+**TechTalk:**
+- TECHPAVILION-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/TechTalk/techpavilion.jpg
+
+**Workshop:**
+- ANDROIDAPP-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/androidapp.jpg
+- BLOCKCHAIN-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/blockchain.jpg
+- CYBERSECURITY-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/cybersecurity.jpg
+- DEVOPS-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/devops.jpg
+- IOT-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/iot.jpg
+- LLMAI-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/llmai.jpg
+- PERSONALFINANCE-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/personalfinance.jpg
+- PREMIEREPRO-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/premierepro.jpg
+- PREMIEREPROOLD-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/premiereproold.jpg
+- SELFHOSTING-LQ:  
+  https://raw.githubusercontent.com/recursion-pu/banners/main/Events-LQ-Assets/Workshop/selfhosting.jpg
